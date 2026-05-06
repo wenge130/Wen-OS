@@ -2,7 +2,7 @@
 
 A personal AI Operating System for **Wen Ge** — Chief AI & Product Officer at [DMPtech.ai](https://dmptech.ai) and Co-founder & CEO of [Easein](https://easein-6053.myshopify.com).
 
-Built on the AIOS framework by [Nate Herk](https://github.com/nateherkai/AIS-OS). Personalized for Wen's specific context, businesses, and workflows.
+Personalized for Wen's specific context, businesses, and workflows.
 
 ---
 
@@ -81,5 +81,3 @@ When you find yourself doing the same task 3+ times, build a new skill:
 3. Run `/audit` to confirm the skill is registered
 
 ---
-
-> *Built on the AIOS framework by Nate Herk. Personalized by Manus AI for Wen Ge.*
